@@ -11,7 +11,7 @@ public class InterningSample {
 
         System.out.println(s_literal1 == s_literal2); // true
         System.out.println(s_new1 == s_new2); // false
-        System.out.println(s_intern1 == s_intern2); // false
+        System.out.println(s_intern1 == s_intern2); // false -> true : intern() は「同じ内容のリテラル（文字列プール）」を返す
         System.out.println(s_literal1 == s_new1); // false
         System.out.println(s_literal1 == s_intern1); // true
         System.out.println(s_new1 == s_intern1); // true
