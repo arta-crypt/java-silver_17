@@ -7,7 +7,7 @@ package com.example.javasilver17.purple.exam.no02;
  * substring）や、参照型の等価比較（equals）、ミュータブル・イミュータブルの違いを検証するサンプルです。
  * </p>
  */
-public class q07 {
+public class Q07 {
     public static void main(String[] args) {
         String s = "Japan";
         StringBuilder sb = new StringBuilder("Japanese");

@@ -12,7 +12,7 @@ package com.example.javasilver17.purple.exam.no02;
  * <li>模擬試験2の問3の解説・検証用コードです。</li>
  * </ul>
  */
-public class q03 {
+public class Q03 {
     public static void main(String... args) {
         // 選択肢A：問題なし
         byte A_b = 0b0100;

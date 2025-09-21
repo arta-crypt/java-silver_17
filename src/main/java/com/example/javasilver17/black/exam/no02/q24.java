@@ -9,7 +9,7 @@ package com.example.javasilver17.black.exam.no02;
  * <li>パターンマッチfor instanceofによる変数宣言のスコープも確認できる。</li>
  * </ul>
  */
-public class q24 {
+public class Q24 {
 
     /**
      * 動作確認用のエントリーポイント。

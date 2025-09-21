@@ -18,11 +18,11 @@ class Test {
     // 引数なしmainメソッド。エントリーポイントにはならない
     public static void main() {
         System.out.println("1 ");
-        q13.main("2 ");
+        Q13.main("2 ");
     }
 }
 
-public class q13 {
+public class Q13 {
     // 正しいmainメソッド（可変長引数）。javaコマンドでq13.javaを直接実行するとこちらが呼ばれる
     public static void main(String... args) {
         System.out.println("3 ");

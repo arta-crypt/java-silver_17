@@ -7,7 +7,7 @@ package com.example.javasilver17.purple.exam.no02;
  * toString()の挙動、==による参照比較の結果を検証するサンプルです。
  * </p>
  */
-public class q05 {
+public class Q05 {
     public static void main(String[] args) {
         String s1 = "Hello"; // 文字列リテラル。定数プールに格納される
         String s2 = new String("Hello"); // newで生成。異なる参照

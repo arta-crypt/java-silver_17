@@ -66,7 +66,7 @@ class MusicPlayer implements Playable {
  * 動作確認用のエントリーポイントクラス。
  * </p>
  */
-public class q01 {
+public class Q01 {
     public static void main(String[] args) {
         MusicPlayer player = new MusicPlayer();
         player.play();

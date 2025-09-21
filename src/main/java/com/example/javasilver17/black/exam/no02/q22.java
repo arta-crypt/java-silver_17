@@ -9,7 +9,7 @@ package com.example.javasilver17.black.exam.no02;
  * 最終的なnumの値を標準出力に表示する。
  * </p>
  */
-public class q22 {
+public class Q22 {
     /**
      * プログラムのエントリーポイント。
      * 

@@ -32,7 +32,7 @@ class A {
  * Javaのコンパイル可否や仕様をコメントで整理した検証用クラス。
  * </p>
  */
-public class q51 extends A {
+public class Q51 extends A {
     // 選択肢A
     // -> 型消去でシグネチャ競合でオーバーロード不可
     // -> 型パラメータ違いなのでオーバーライドも不可
