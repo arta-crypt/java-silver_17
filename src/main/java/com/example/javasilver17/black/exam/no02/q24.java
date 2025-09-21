@@ -1,4 +1,4 @@
-package com.example.javasilver17.black.practice.exam.no02;
+package com.example.javasilver17.black.exam.no02;
 
 /**
  * <p>
