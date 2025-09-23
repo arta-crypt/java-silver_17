@@ -1,5 +1,5 @@
 /**
- * Java Silver SE 17 紫本 模擬試験 第2 問31
+ * Java Silver SE 17 紫本 模擬試験 No.2 問31
  * <p>
  * {@link java.util.ArrayList}の各メソッドの動作（特に戻り値）を確認するサンプルコードです。
  * {@code add}, {@code set}, {@code get}, {@code remove} メソッドの挙動と戻り値について示します。
